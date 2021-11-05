@@ -1,6 +1,7 @@
-### Hello ✨  01001000 01100101 01101100 01101100 01101111 00001010 ✨ 👋 
-### World ✨  01010111 01101111 01110010 01101100 01100100 ✨ 👋 
+### Hello ✨  01001000 01100101 01101100 01101100 01101111 00001010 ✨ 
+### World ✨  01010111 01101111 01110010 01101100 01100100 ✨ 
 
+👋 👋 👋 👋 👋 👋 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -19,7 +20,7 @@
   
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-
+👋 👋 👋 👋 👋 👋 
 - 🔭 I’m currently working on algorithm and data structures
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
