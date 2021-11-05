@@ -13,13 +13,10 @@
 - ⚡ Fun fact: I
 
 <details>
-  <summary> GitHub Stats</summary>
+  <summary> GitHub Stats & Top Languages</summary>
 
   <img align="left" alt="Meitong's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MayUWish&show_icons=true&hide_border=true" />
 
-</details>
-
-<details>
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   
@@ -40,7 +37,7 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 
-<summary> Most Used Languages</summary>
+
 <img align="left" alt="Meitong's GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayUWish" />
 
 </details>
