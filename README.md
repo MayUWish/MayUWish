@@ -29,12 +29,12 @@
 ### World ✨  01010111 01101111 01110010 01101100 01100100 ✨ 
 
 - 🔭 I’m currently working on algorithm and data structures
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently improving my skills in Python
+- 👯 I’m looking to collaborate on anything about programming
 - 💬 Ask me about how programming grants me magic power
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/meitongqu/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/meitongqu/)   [Portfolio](https://mayuwish.github.io/)
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Fun
+- ⚡ Fun fact: Dream Big
 
 
 
